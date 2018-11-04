@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Baloo');
+
+section {
+	display: inline-flex;
+}
+
+article {
+	border: 2px black solid;
+	border-radius: 10px;
+	width: 120px;
+	height: 144px;
+	margin: 17px;
+	display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+}
+
+p {
+	font-family: 'Baloo', cursive;
+	font-size: 36px;
+	margin: 17px
+}
+
+article#impar {
+	background-color: #dfedd6;
+}
+
+article#par {
+	background-color: #f7fade;
+}
