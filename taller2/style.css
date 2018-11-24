@@ -1,0 +1,24 @@
+p.date{
+	text-align: right;
+}
+
+h4.texto{
+	border: 1px solid blue;
+	border-radius: 5px;
+	background-color: blue;
+	color: black;
+	text-align: center;
+	height: 60px;
+	line-height: 60px;
+}
+
+img.twitter{
+	/*background-image: url("logo_twitter.png");
+	background-size: cover*/
+	width: 100px !important;
+	height: 100px !important;
+}
+
+div.tweet{
+	border-bottom: 1px solid black;
+}
